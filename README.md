@@ -1,4 +1,4 @@
-<img src="лого4.png" alt="Логотип ініціативи" width="2000" style="margin-bottom: 40px;">
+<img src="лого4.png" alt="Логотип ініціативи" width="2500" style="margin-bottom: 40px;">
 
 ## Міжнародний форум з реабілітації та декомпресії військових та людей з особливими потребами «Bionic Forum» Ukraine’s Rehabilitation & Reforms
 
